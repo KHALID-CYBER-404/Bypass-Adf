@@ -39,7 +39,7 @@ CONTACT WITH <a href="https://github.com/Khalid2009sm"><b>KHALID SHAIFULLAH</a> 
 
 </br>
 <p align="center">
-     Bypass Adf Paid Toll
+     Bypass Adf Paid Tool
 </p>
   
 #### INSTALL TOOL ON TERMUX
@@ -58,7 +58,7 @@ cd Bypass-Adf
 python Adf.py
 ```
 # SEE THE PROOF
-![](https://f.top4top.io/p_22821yj5o0.jpg)
+![](https://ibb.co/Pj9J9j6)
 
 #### MY SOCIAL MEDIA
 
