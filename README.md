@@ -39,7 +39,7 @@ CONTACT WITH <a href="https://github.com/Khalid2009sm"><b>KHALID SHAIFULLAH</a> 
 
 </br>
 <p align="center">
-      2004-2009 FACEBOOK ACCOUNT CLONER
+     Bypass Adf Paid Toll
 </p>
   
 #### INSTALL TOOL ON TERMUX
