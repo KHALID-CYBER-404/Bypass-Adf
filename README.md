@@ -16,8 +16,8 @@ CONTACT WITH <a href="https://github.com/Khalid2009sm"><b>KHALID SHAIFULLAH</a> 
 
 <br>
   <a href="https://github.com/Khalid2009sm/termux-style/stargazers/">
-  <a href="https://github.com/Khalid2009sm/2004-2009-Account-Cloner">
-    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Khalid2009sm/2004-2009-Account-Cloner.svg"/>
+  <a href="https://github.com/Khalid2009sm/Bypass-Adf">
+    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Khalid2009sm/Bypass-Adf.svg"/>
   </a>
 <br>
   <a href="https://github.com/Khalid2009sm/2004-2009-Account-Cloner">
@@ -27,8 +27,8 @@ CONTACT WITH <a href="https://github.com/Khalid2009sm"><b>KHALID SHAIFULLAH</a> 
     <img alt="Starts" src="https://img.shields.io/github/stars/Khalid2009sm/2004-2009-Account-Cloner.svg"/>
   </a>
 <br>
-<a href="https://github.com/Khalid2009sm/2004-2009-Account-Cloner">
-    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/Khalid2009sm/2004-2009-Account-Cloner.svg"/>
+<a href="https://github.com/Khalid2009sm/Bypass-Adf">
+    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/Khalid2009sm/Bypass-Adf.svg"/>
   </a>
 <br>
 <a href="https://github.com/Khalid2009sm/2004-2009-Account-Cloner">
