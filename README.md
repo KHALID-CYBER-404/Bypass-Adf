@@ -57,8 +57,9 @@ git clone https://github.com/Khalid2009sm/Bypass-Adf
 cd Bypass-Adf
 python Adf.py
 ```
-# SEE THE PROOF
-![](https://ibb.co/Pj9J9j6)
+SCREENSHOT👇
+![](https://github.com/Hunter-alamin/EMPEROR/blob/main/IMG_20220329_094936.jpg)
+
 
 #### MY SOCIAL MEDIA
 
