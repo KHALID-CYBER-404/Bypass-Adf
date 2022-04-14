@@ -32,8 +32,8 @@ CONTACT WITH <a href="https://github.com/Khalid2009sm"><b>KHALID SHAIFULLAH</a> 
   </a>
 <br>
 <a href="https://github.com/Khalid2009sm/2004-2009-Account-Cloner">
-    <img alt="Top Language" src="https://img.shields.io/github/languages/top/Khalid2009sm/2004-2009-Account-Cloner.svg"/> <a                                                                                                        href="https://github.com/Azim-vau/fcpromax">
-    <img alt="Forks" src="https://img.shields.io/github/forks/Khalid2009sm/2004-2009-Account-Cloner.svg"/>
+    <img alt="Top Language" src="https://img.shields.io/github/languages/top/Khalid2009sm/Bypass-Adf.svg"/> <a                                                                                                        href="https://github.com/Azim-vau/fcpromax">
+    <img alt="Forks" src="https://img.shields.io/github/forks/Khalid2009sm/Bypass-Adf.svg"/>
   </a>
 </div>
 
