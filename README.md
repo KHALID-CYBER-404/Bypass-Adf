@@ -58,7 +58,7 @@ cd Bypass-Adf
 python Adf.py
 ```
 SCREENSHOT👇
-![](https://ibb.co/Pj9J9j6)
+![](https://github.com/Khalid2009sm/Bypass-Adf/blob/main/Screenshot_20220414-093718_Termux.jpg)
 
 
 #### MY SOCIAL MEDIA
