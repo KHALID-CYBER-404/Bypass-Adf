@@ -58,7 +58,7 @@ cd Bypass-Adf
 python Adf.py
 ```
 SCREENSHOT👇
-![](https://github.com/Hunter-alamin/EMPEROR/blob/main/IMG_20220329_094936.jpg)
+![](https://ibb.co/Pj9J9j6)
 
 
 #### MY SOCIAL MEDIA
